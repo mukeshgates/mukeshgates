@@ -74,7 +74,7 @@ besides I love listening to motivational music 🎵
 
 **:rocket: My recent projects:**
 
-<a href="https://github.com/mukeshgates/PersonalPortfolio">
+<a href="https://github.com/mukeshgates/portfolio">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mukeshgates&repo=PersonalPortfolio" />
 </a>
 
