@@ -75,7 +75,7 @@ besides I love listening to motivational music 🎵
 **:rocket: My recent projects:**
 
 <a href="https://github.com/mukeshgates/portfolio">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mukeshgates&repo=PersonalPortfolio" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mukeshgates&repo=portfolio" />
 </a>
 
 <a href="https://github.com/DaliaW/Covid19-Tracker">
