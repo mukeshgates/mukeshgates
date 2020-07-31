@@ -14,13 +14,12 @@
 - 📫 How to reach me: just send a Hi! Over LinkedIn or email to discuss anything.
 
 ## Hey there!  👋
-<a href="https://www.linkedin.com/in/mukesh-reddy-613133174" target="_blank">
-  <img align="left" alt="Mukesh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://mukeshgates.github.io/" target="_blank">
-  <img align="left" alt="Mukesh's Website" width="22px" src="https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/globe-512.png" />
-</a>
-
+<p>
+  <a href="https://www.linkedin.com/in/mukesh-reddy-613133174" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/mukeshgates" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+    <a href="https://medium.com/@notyetmukesh" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://twitter.com/mukeshgates" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 <br />
 <br />
 
