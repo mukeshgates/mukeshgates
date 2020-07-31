@@ -1,8 +1,11 @@
 # Hi there 👋
+<p>
+  <a href="https://www.linkedin.com/in/mukesh-reddy-613133174" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/mukeshgates" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+    <a href="https://medium.com/@notyetmukesh" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://twitter.com/mukeshgates" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 ## updating still...
-[![Linkedin Badge](https://img.shields.io/badge/-mukesh_reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mukesh-reddy-613133174)](https://www.linkedin.com/in/mukesh-reddy-613133174/) 
-[![Gmail Badge](https://img.shields.io/badge/-mukeshreddy900@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mukeshreddy900@gmail.com)](mukeshreddy900@gmail.com)
----
 
 ### I'm Mukesh Reddy, Nice to meet you!
 
@@ -13,13 +16,6 @@
 - 💬 Ask me about myself if you want to just chat
 - 📫 How to reach me: just send a Hi! Over LinkedIn or email to discuss anything.
 
-## Hey there!  👋
-<p>
-  <a href="https://www.linkedin.com/in/mukesh-reddy-613133174" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/mukeshgates" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-    <a href="https://medium.com/@notyetmukesh" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://twitter.com/mukeshgates" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
 <br />
 <br />
 
