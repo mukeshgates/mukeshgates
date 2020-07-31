@@ -19,7 +19,7 @@
 <br />
 <br />
 
-I'm [Mukesh Reddy!](https://mukeshgates.github.io/) 🙋‍♂️ from India, a 4th-year computer Engineering student at the Kalasalingam University in India👨‍💻👨🏼‍✈️ 
+I'm [Mukesh Reddy!](https://mukeshgates.github.io/) 🙋‍♂️ from India, a 4th-year computer Engineering student based in India👨‍💻👨🏼‍✈️ 
 
 and also a Aspiring Data Scientist 🙋‍♂️.
 
